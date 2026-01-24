@@ -1,6 +1,6 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AC4G&label=Profile%20views&color=03f0fc&style=flat" alt="AC4G Profile Views" />
-  &nbsp;<img src="https://img.shields.io/github/followers/AC4G?label=Followers&style=flat&color=03f0fc" alt="AC4G Followers" />
+  <img src="https://komarev.com/ghpvc/?username=CelestialAC&label=Profile%20views&color=03f0fc&style=flat" alt="CelestialAC Profile Views" />
+  &nbsp;<img src="https://img.shields.io/github/followers/CelestialAC?label=Followers&style=flat&color=03f0fc" alt="CelestialAC Followers" />
 </p>
 
 ---
