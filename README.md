@@ -1,6 +1,6 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=CelestialAC&label=Profile%20views&color=03f0fc&style=flat" alt="CelestialAC Profile Views" />
-  &nbsp;<img src="https://img.shields.io/github/followers/CelestialAC?label=Followers&style=flat&color=03f0fc" alt="CelestialAC Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Lythaeon&label=Profile%20views&color=03f0fc&style=flat" alt="Lythaeon Profile Views" />
+  &nbsp;<img src="https://img.shields.io/github/followers/Lythaeon?label=Followers&style=flat&color=03f0fc" alt="Lythaeon Followers" />
 </p>
 
 ---
