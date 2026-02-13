@@ -1,10 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Lythaeon&label=Profile%20views&color=03f0fc&style=flat" alt="Lythaeon Profile Views" />
-  &nbsp;<img src="https://img.shields.io/github/followers/Lythaeon?label=Followers&style=flat&color=03f0fc" alt="Lythaeon Followers" />
-</p>
-
----
-
 ### 👋 Hello, I’m Wladimir
 
 Freelance backend engineer building production-grade backend systems for teams that need reliability, performance, and long-term evolvability.
