@@ -2,7 +2,7 @@
 
 Freelance backend engineer building production-grade backend systems for teams that need reliability, performance, and long-term evolvability.
 
-I specialize in **Node.js/TypeScript** and **Rust**, working on APIs, event-driven systems, and low-latency backend services that hold up under real workloads. My focus is correctness, clear domain boundaries, and architectures that scale without constant rewrites.
+I specialize in **Rust**, working on APIs, event-driven systems, and low-latency backend services that hold up under real workloads. My focus is correctness, clear domain boundaries, and architectures that scale without constant rewrites.
 
 I’m currently leading a production rewrite from Node.js to Rust, working with geo-distributed state, async workflows, and infrastructure designed to scale across regions without surprises.
 
